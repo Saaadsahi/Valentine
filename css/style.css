@@ -118,9 +118,6 @@ body {
   }
 }
 
-/* =========================================
-   FLOWER STYLES (adapted from your original)
-   ========================================= */
 .flowers {
   position: relative;
   transform: scale(0.9);
