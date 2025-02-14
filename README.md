@@ -44,3 +44,9 @@ If you want to send this to someone:
 Zip the folder (Right-click > Compress on Mac / Windows).
 Send it via email or Google Drive.
 The person just needs to unzip and double-click index.html to see it!
+❓ Need Help?
+If you have any questions or want to make more changes, check out my portfolio:
+📌 My Portfolio
+
+You can contact me from there! 😊
+
